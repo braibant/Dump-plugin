@@ -1,4 +1,4 @@
-MODULES :=  src/dump_plugin.ml4 src/Dump.v test-suite/Example.v
+MODULES :=  src/dump_plugin.ml4 src/Dump.v test-suite/Example.v test-suite/example2.v
 ROOT := ./
 .PHONY: coq clean
 
